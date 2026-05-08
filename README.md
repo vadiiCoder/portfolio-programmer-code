@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Vadii+Ashara;Frontend+Developer+%7C+Designer+%7C+Creator;Welcome+to+my+Portfolio+🚀" />
 </p>
 
+
 ---
 
 # 🌐 My Portfolio
@@ -10,6 +11,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
+
+<img width="1125" height="629" alt="Screenshot 2026-05-08 142301" src="https://github.com/user-attachments/assets/15ffe9c3-b688-4af4-8d79-24f68a9fa8ce" />
+
 
 ## 🚀 About This Project
 This is my personal portfolio website built using **Nicepage**.  
