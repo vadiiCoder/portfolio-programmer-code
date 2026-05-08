@@ -1,115 +1,93 @@
-# 🚀 Ryan Ashara | Developer Portfolio
-
-<h1 align="center">Hi 👋, I'm Ryan Ashara</h1>
-
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=2cedf0&center=true&vCenter=true&width=600&lines=Web+Developer+💻;UI%2FUX+Designer+🎨;Frontend+Engineer+⚡;Creative+Problem+Solver+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Vadii+Ashara;Frontend+Developer+%7C+Designer+%7C+Creator;Welcome+to+my+Portfolio+🚀" />
 </p>
 
 ---
 
-## 🌟 About Me
+# 🌐 My Portfolio
 
-🎓 Computer Science Student
-💻 Web & App Developer
-🎨 UI/UX Designer
-🚀 Passionate about building modern digital experiences
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
+
+## 🚀 About This Project
+This is my personal portfolio website built using **Nicepage**.  
+It showcases my skills, projects, and creative work in web development and design.
+
+- 🎨 Clean & Modern UI/UX Design  
+- 💻 Built with Nicepage (HTML, CSS, JavaScript)  
+- 📱 Fully Responsive (Mobile + Desktop)  
+- ⚡ Fast and Lightweight  
+- 🌍 Hosted Online for easy access  
 
 ---
 
-# 🛠️ Tech Stack
+## 🧑‍💻 About Me
+- 👨‍💻 Name: **Vadii Ashara**
+- 💡 Passion: Web Development & UI/UX Design
+- 🎯 Goal: Becoming a professional Full Stack Developer
+- 📧 Contact: **vadiiashara@gmail.com**
 
-<p align="center">
+---
 
-<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
-<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma" />
-<img src="https://img.shields.io/badge/Photoshop-blue?style=for-the-badge&logo=adobephotoshop" />
-<img src="https://img.shields.io/badge/Illustrator-orange?style=for-the-badge&logo=adobeillustrator" />
-
+## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📂 Featured Projects
 
+### 🔥 Project 1
+- Description: Brief explanation of your project
+- Tech: HTML, CSS, JS
+- 🌐 Live Demo: https://portfolio-graphic-designer-six.vercel.app/
+
+### 🍩 Donutes Website
+- Description: A creative website about delicious donut inspiration
+- Tech: HTML, CSS, JavaScript
+- 🌐 Live Demo: https://donutes-website.vercel.app/
+
+### 💼 Bank Management System
+- Description: Desktop application for managing banking operations
+- Tech: C#, MySQL, Visual Studio
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vadiiCoder&show_icons=true&theme=tokyonight" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vadiiCoder&theme=tokyonight" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=vadiiCoder&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadiiCoder&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-# 🧠 Most Used Languages
-
+## 🧠 Contribution Graph
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadiiCoder&layout=compact&theme=tokyonight" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vadiiCoder&theme=react-dark" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
-
-* 🎨 Graphic Design Portfolio Website
-* 💻 Programming Portfolio Website
-* 🛠️ Bank Management System
-* 🌐 Responsive Web Applications
-* 📱 UI/UX Design Projects
-
----
-
-# 📈 GitHub Activity
-
+## ✨ Fun Animation
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vadiiCoder&theme=tokyonight" />
-
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
-
+## 📬 Contact Me
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <a href="mailto:vadiiashara@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/vadiiCoder">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
-# 📬 Contact Me
-
-📧 Email: [rayaanasharaa@gmail.com](mailto:rayaanasharaa@gmail.com)
-
-📱 WhatsApp: +252 619 001 709
-
-🌍 Somalia
-
----
-
-# ⚡ Current Goals
-
-* Become a Full Stack Developer
-* Build modern SaaS applications
-* Work with international clients
-* Improve UI/UX development skills
-
----
-
-# ⭐ Support Me
-
-⭐ Star my repositories  
-🚀 Follow my GitHub journey  
-💬 Let's connect and build something amazing  
----
+<p align="center">✨ Thanks for visiting my portfolio ✨</p>
